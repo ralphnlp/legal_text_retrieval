@@ -7,4 +7,4 @@ ordinary people but experts for quickly get instructions or references for their
 is a legal question or situation, the participating system must find relevant articles in a given corpus that can help answer that query.
 
 <p align="center">
-    <img src="./demo.png">
+    <img src="./demo.png" height=388 width=700>
